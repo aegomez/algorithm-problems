@@ -17,6 +17,12 @@ Runs the tests in the interactive watch mode.
 
 Compiles all TypeScript files with the settings from `tsconfig.json`. JS files can be found in the `build` folder. **This is not needed for testing**.
 
+## List of Algorithms
+
+### A) Arrays/N-dimensional arrays/Stacks/Queues
+
+1. Maximum value of an array without using loops.
+
 ## Author
 
 - **Adrian Gomez** - [aegomez](https://github.com/aegomez)
