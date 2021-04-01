@@ -22,6 +22,7 @@ Compiles all TypeScript files with the settings from `tsconfig.json`. JS files c
 ### A) Arrays/N-dimensional arrays/Stacks/Queues
 
 1. Maximum value of an array without using loops.
+2. Display the numbers from 1 to 100 without using loops/conditionals.
 
 ## Author
 
