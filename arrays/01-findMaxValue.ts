@@ -1,7 +1,12 @@
 // Return the max value of an array without using loops
-export function findMaxValue(array: number[], index = 0): number {
-  if (index < array.length) {
-    return Math.max(array[index], findMaxValue(array, index + 1));
+export function findMaxValue(
+  array: number[],
+  index = 0,
+  current = -Infinity
+): number | undefined {
+  if (index >= array.length) {
+    return current;
   }
-  return -Infinity;
+  let max = Math.max(array[index], current);
+  return findMaxValue(array, index + 1, max);
 }
