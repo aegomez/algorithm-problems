@@ -23,6 +23,7 @@ Compiles all TypeScript files with the settings from `tsconfig.json`. JS files c
 
 1. Maximum value of an array without using loops.
 2. Display the numbers from 1 to 100 without using loops/conditionals.
+3. Find the largest area formed by rectangles of 1's in a binary matrix.
 
 ## Author
 
