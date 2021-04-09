@@ -26,6 +26,7 @@ Compiles all TypeScript files with the settings from `tsconfig.json`. JS files c
 3. Find the largest area formed by rectangles of 1's in a binary matrix.
 4. Find groups of 1's in an MxN matrix.
 5. Rotate a matrix of numbers by 90 deg.
+6. Merge two sorted arrays where one has enough space at the end for the other.
 
 ## Author
 
