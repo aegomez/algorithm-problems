@@ -25,6 +25,7 @@ Compiles all TypeScript files with the settings from `tsconfig.json`. JS files c
 2. Display the numbers from 1 to 100 without using loops/conditionals.
 3. Find the largest area formed by rectangles of 1's in a binary matrix.
 4. Find groups of 1's in an MxN matrix.
+5. Rotate a matrix of numbers by 90 deg.
 
 ## Author
 
