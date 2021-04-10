@@ -27,6 +27,7 @@ Compiles all TypeScript files with the settings from `tsconfig.json`. JS files c
 4. Find groups of 1's in an MxN matrix.
 5. Rotate a matrix of numbers by 90 deg.
 6. Merge two sorted arrays where one has enough space at the end for the other.
+7. Given an MxN matrix, if any element is zero, make that column and row all zeroes.
 
 ## Author
 
