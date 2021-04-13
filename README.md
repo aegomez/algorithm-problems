@@ -29,6 +29,7 @@ Compiles all TypeScript files with the settings from `tsconfig.json`. JS files c
 6. Merge two sorted arrays where one has enough space at the end for the other.
 7. Given an MxN matrix, if any element is zero, make that column and row all zeroes.
 8. Given two arrays of single-digit numbers, create a function that will add them and produce the result in the same format as the inputs. Example: `a = [9, 9], b = [1]` so `o = [1, 0, 0]`.
+9. Given an array with values ranging from `0` to `n-1`, swap each array location with the value on the nth position with `a[a[n]]`.
 
 ## Author
 
