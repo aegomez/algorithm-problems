@@ -31,6 +31,7 @@ Compiles all TypeScript files with the settings from `tsconfig.json`. JS files c
 8. Given two arrays of single-digit numbers, create a function that will add them and produce the result in the same format as the inputs. Example: `a = [9, 9], b = [1]` so `o = [1, 0, 0]`.
 9. Given an array with values ranging from `0` to `n-1`, swap each array location with the value on the nth position with `a[a[n]]`.
 10. Shuffle an array.
+11. Write a function that will reverse N sized blocks of an array.
 
 ## Author
 
