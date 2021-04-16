@@ -33,6 +33,7 @@ Compiles all TypeScript files with the settings from `tsconfig.json`. JS files c
 10. Shuffle an array.
 11. Write a function that will reverse N sized blocks of an array.
 12. Implement a circular queue.
+13. Flatten an array. Recursive and iterative implementation.
 
 ## Author
 
