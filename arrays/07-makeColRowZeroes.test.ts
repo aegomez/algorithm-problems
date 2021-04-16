@@ -31,3 +31,18 @@ test("Makes multiple colums and rows all zeroes", () => {
     [1, 0, 1, 0, 1],
   ]);
 });
+
+test("Makes first column and row all zeroes", () => {
+  const matrix = [
+    [0, 1, 1],
+    [1, 1, 1],
+    [1, 1, 1],
+  ];
+  makeColRowZeroes(matrix);
+
+  expect(matrix).toEqual([
+    [0, 0, 0],
+    [0, 1, 1],
+    [0, 1, 1],
+  ]);
+});
