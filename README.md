@@ -32,6 +32,7 @@ Compiles all TypeScript files with the settings from `tsconfig.json`. JS files c
 9. Given an array with values ranging from `0` to `n-1`, swap each array location with the value on the nth position with `a[a[n]]`.
 10. Shuffle an array.
 11. Write a function that will reverse N sized blocks of an array.
+12. Implement a circular queue.
 
 ## Author
 
