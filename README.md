@@ -34,6 +34,7 @@ Compiles all TypeScript files with the settings from `tsconfig.json`. JS files c
 11. Write a function that will reverse N sized blocks of an array.
 12. Implement a circular queue.
 13. Flatten an array. Recursive and iterative implementation.
+14. Given the start and end position of an MxN matrix, find all possible routes from start to end given the only valid movements of right or down.
 
 ## Author
 
